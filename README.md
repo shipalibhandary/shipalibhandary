@@ -1,3 +1,4 @@
 ## Hi there 👋, Iam Shipali!
 
-I love working on cool tech stuff from building web apps to exploring cybersecurity and cloud platforms. I'm always up for learning something new and improving my skills along the way.
+I enjoy building things with code, exploring cybersecurity concepts, and trying out tools in cloud and web development. Whether it's a simple app, a research write-up, or just learning something new - I love getting hands-on and figuring things out.
+Iam open to new opportunities, collaborations, or tech conversations - feel free to connect!
