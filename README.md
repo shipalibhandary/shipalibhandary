@@ -13,3 +13,6 @@ Iam open to new opportunities, collaborations, or tech conversations - feel free
 
 # ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shipalibhandary&theme=react-dark)
+
