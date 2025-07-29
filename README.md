@@ -1,6 +1,6 @@
 ## Hi there 👋, Iam Shipali!
 
-I enjoy building things with code, exploring cybersecurity concepts, and trying out tools in cloud and web development. Whether it's a simple app, a research write-up, or just learning something new - I love getting hands-on and figuring things out.
+I enjoy building things with code, trying out tools in cloud and web development,and exploring cybersecurity concepts. Whether it's a simple app, a research write-up, or just learning something new - I love getting hands-on and figuring things out.
 Iam open to new opportunities, collaborations, or tech conversations - feel free to connect!
 
 # 📊 GitHub Stats:
