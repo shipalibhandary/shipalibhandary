@@ -14,5 +14,3 @@ Iam open to new opportunities, collaborations, or tech conversations - feel free
 # ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# 🎯 Problem Solving Journey
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen?style=flat&logo=HackerRank)](https://www.hackerrank.com/shipalibhandary)
