@@ -3,10 +3,6 @@
 I enjoy building things with code, trying out tools in cloud and web development,and exploring cybersecurity concepts. Whether it's a simple app, a research write-up, or just learning something new - I love getting hands-on and figuring things out.
 Iam open to new opportunities, collaborations, or tech conversations - feel free to connect!
 
-# 🎯 Problem Solving Journey
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen?style=flat&logo=HackerRank)](https://www.hackerrank.com/shipalibhandary)
-
-
 # 📊 GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shipalibhandary&show_icons=true&theme=dark)
@@ -17,3 +13,6 @@ Iam open to new opportunities, collaborations, or tech conversations - feel free
 
 # ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+# 🎯 Problem Solving Journey
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen?style=flat&logo=HackerRank)](https://www.hackerrank.com/shipalibhandary)
