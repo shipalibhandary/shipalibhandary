@@ -9,6 +9,7 @@ Iam open to new opportunities, collaborations, or tech conversations - feel free
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shipalibhandary&layout=compact&theme=dark)
 
+# Github Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shipalibhandary&theme=dark)](https://git.io/streak-stats)
 
 # ✍️ Random Dev Quote
