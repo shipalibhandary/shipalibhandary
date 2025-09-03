@@ -25,7 +25,7 @@ Iam open to new opportunities, collaborations, or tech conversations - feel free
 ### 🎨 Front-End Frameworks 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>  
 
-### ⚙️ Back-End Frameworks
+### ⚙️ Back-End Frameworks & Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Nodejs"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="GoogleCloud"/>  
