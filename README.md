@@ -12,7 +12,8 @@ Iam open to new opportunities, collaborations, or tech conversations - feel free
 # Github Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shipalibhandary&theme=dark)](https://git.io/streak-stats)
 
-# Tech Stack
+# 💻 Tech Stack
+<div align="center">
 ### 🌐 Web & Programming Languages 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -26,6 +27,7 @@ Iam open to new opportunities, collaborations, or tech conversations - feel free
 ### 🗄️ Databases & Libraries  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+</div>
 
 # ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
