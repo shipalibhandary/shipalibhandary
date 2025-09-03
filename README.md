@@ -35,7 +35,9 @@ Iam open to new opportunities, collaborations, or tech conversations - feel free
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>  
 
 ### ☁️ Platforms & Hosting  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/White_GitHub_logo.png" width="40" height="40" title="GitHub"/>
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" title="GitHub"/>
+</a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" title="Netlify"/>  
 
 ### 🔧 Tools & Software  
